@@ -2,7 +2,6 @@ Student Database Management
 1.Database Setup
 i). Create Database
 CREATE DATABASE StudentManagement;
-USE StudentManagement;
 ii). Create Students Table
 code:
 CREATE TABLE Students (
