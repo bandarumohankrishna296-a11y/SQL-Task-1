@@ -1,8 +1,8 @@
 Student Database Management
 1.Database Setup
-i). Create Database
+i) Create Database
 CREATE DATABASE StudentManagement;
-ii). Create Students Table
+ii) Create Students Table
 code:
 CREATE TABLE Students (
     StudentID INT AUTO_INCREMENT PRIMARY KEY,
